@@ -8,6 +8,8 @@ public class App {
     public static void main(String[] args) {
         System.out.println("APP: Hello World!");
 
-        DayOfWeekHelper.Test();
+        // DayOfWeekHelper.Test();
+        // LocalTimeHelper.Test();
+        StringBuilderTest.test();
     }
 }
