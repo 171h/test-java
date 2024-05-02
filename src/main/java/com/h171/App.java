@@ -10,6 +10,11 @@ public class App {
 
         // DayOfWeekHelper.Test();
         // LocalTimeHelper.Test();
-        StringBuilderTest.test();
+        // StringBuilderTest.test();
+        // DayTypeTest.test();
+        // ProjectCalendarHoursTest.test();
+        // ProjectCalendarWeekTest.test();
+        ProjectCalendarTest.test();
+
     }
 }
