@@ -17,8 +17,9 @@ public class App {
         // ProjectCalendarTest.test();
         // TimeUnitTest.test();
         // YearMonthTest.test();
-        EnumSetTest.test();
+        // EnumSetTest.test();
         // EnumTest.test();
+        AnyTest.test();
 
     }
 }
