@@ -19,7 +19,7 @@ public class App {
         // YearMonthTest.test();
         // EnumSetTest.test();
         // EnumTest.test();
-        AnyTest.test();
-
+        // AnyTest.test();
+        RecurringDataTest.test();
     }
 }
