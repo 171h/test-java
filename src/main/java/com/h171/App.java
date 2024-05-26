@@ -14,12 +14,13 @@ public class App {
         // DayTypeTest.test();
         // ProjectCalendarHoursTest.test();
         // ProjectCalendarWeekTest.test();
-        // ProjectCalendarTest.test();
+        ProjectCalendarTest.test();
         // TimeUnitTest.test();
         // YearMonthTest.test();
         // EnumSetTest.test();
         // EnumTest.test();
         // AnyTest.test();
-        RecurringDataTest.test();
+        // RecurringDataTest.test();
+        // TaskFieldListsTest.test();
     }
 }
